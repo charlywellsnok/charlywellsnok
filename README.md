@@ -107,14 +107,6 @@ An interactive learning platform designed to help aspiring software engineers ma
 
 ---
 
-### 🏫 Attendly
-A modern attendance management system that streamlines attendance tracking for educational institutions. The platform enables administrators and teachers to manage student attendance efficiently while providing parents with timely notifications about student absences.
-
-**Tech Stack**
-- React
-- JavaScript
-- CSS
-- Supabase
 
 ---
 
