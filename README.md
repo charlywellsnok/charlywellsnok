@@ -135,7 +135,7 @@ A smart attendance management system that enables schools to manage attendance d
 
 # 🎯 Current Goals
 
-- 🚀 Become a world-class Frontend Engineer
+- 🚀 Become a world-class Software Engineer
 - 💼 Work on impactful products at global tech companies
 - 🌍 Build software that improves lives
 - 📚 Continuously learn and share knowledge
