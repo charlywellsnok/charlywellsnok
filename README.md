@@ -109,15 +109,7 @@ An interactive platform for learning Data Structures & Algorithms through flashc
 
 ---
 
-### 🏫 Attendly
 
-A smart attendance management system that enables schools to manage attendance digitally while notifying parents about student absences.
-
-**Tech Stack**
-
-- React
-- Node.js
-- PostgreSQL
 
 ---
 
